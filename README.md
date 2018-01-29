@@ -1,2 +1,2 @@
-# MySunnyNews
-这是一个自己写的新闻类项目
+# MyNewDemo
+这是一个自己写的练习小项目
